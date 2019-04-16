@@ -1,3 +1,3 @@
 # Gravity
 
-Experiment with matter.js
+Experiment with matter.js. For iPhone use 
